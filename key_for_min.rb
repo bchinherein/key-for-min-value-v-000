@@ -9,6 +9,7 @@ smallest_value = nil
     if value < smallest_value
       key = smallest_key
       value = smallest_value
+    end
   end
 
 smallest_key
