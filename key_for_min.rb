@@ -12,6 +12,6 @@ smallest_value = nil
     end
   end
 
-smallest_key
+return smallest_key
 
 end
